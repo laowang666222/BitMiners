@@ -1,0 +1,49 @@
+.page {
+  background-color: #ffffff;
+  background-image: url('https://ide.code.fun/api/image?token=6650bbc3602bd200126352f5&name=531c93ce01fa1fb8534f7c7eb5b48d0a.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.section {
+  background-image: url('https://ide.code.fun/api/image?token=6650bbc3602bd200126352f5&name=531c93ce01fa1fb8534f7c7eb5b48d0a.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 70rem;
+  height: 43.75rem;
+}
+.section_2 {
+  background-color: #00000000;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.pos {
+  position: absolute;
+  right: 20.06rem;
+  top: 5.28rem;
+}
+.text-wrapper {
+  padding: 1.5rem 0 1rem;
+  background-image: radial-gradient(25% 25% at 50% 75%, #aec6eb 0%, #000000c2 100%);
+  border-radius: 1rem;
+  width: 13.5rem;
+}
+.pos_2 {
+  position: absolute;
+  right: 19.06rem;
+  top: 34.44rem;
+}
+.font {
+  font-size: 1.5rem;
+  font-family: AlimamaShuHeiTi;
+  line-height: 1.5rem;
+  color: #fffafa;
+}
+.pos_3 {
+  position: absolute;
+  right: 3rem;
+  top: 34.44rem;
+}

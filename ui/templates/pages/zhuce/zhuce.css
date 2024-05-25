@@ -1,0 +1,117 @@
+.page {
+  background-color: #ffffff;
+  background-image: url('https://ide.code.fun/api/image?token=6650bbc3602bd200126352f5&name=30ebec230a48c7a141080682af636222.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.section {
+  background-image: url('https://ide.code.fun/api/image?token=6650bbc3602bd200126352f5&name=30ebec230a48c7a141080682af636222.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 70rem;
+  height: 43.75rem;
+}
+.section_2 {
+  padding: 2rem 1.25rem 2.5rem 2.63rem;
+  background-color: #ffffffb3;
+  border-radius: 3.13rem 0rem 0 0;
+  backdrop-filter: blur(1.44rem);
+  width: 38.66rem;
+  border-left: solid 0.19rem #f2dcdc;
+  border-right: solid 0.19rem #f2dcdc;
+  border-top: solid 0.19rem #f2dcdc;
+  border-bottom: solid 0.19rem #f2dcdc;
+}
+.pos {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.text {
+  margin-right: -34rem;
+  color: #000000;
+  font-size: 4.5rem;
+  font-family: PinyonScript;
+  line-height: 3.14rem;
+}
+.group {
+  margin-right: 5.5rem;
+  margin-top: 3rem;
+  height: 4.2rem;
+}
+.section_3 {
+  margin-right: 13.13rem;
+  background-color: #00000000;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.text_2 {
+  margin-top: -0.5rem;
+  color: #000000;
+  font-size: 3rem;
+  font-family: SourceHanSansCN;
+  font-weight: 800;
+  line-height: 3.2rem;
+}
+.text_3 {
+  margin-right: 0.38rem;
+  margin-top: 1.88rem;
+  color: #8f92a1;
+  font-size: 1.5rem;
+  font-family: AlibabaPuHuiTi;
+  line-height: 1.39rem;
+}
+.group_2 {
+  margin-top: 2.38rem;
+  padding: 0 1rem;
+}
+.text-wrapper {
+  padding: 0.5rem 0;
+  background-color: #fab9b940;
+  border-radius: 3.75rem;
+  width: 26.38rem;
+  height: 3.38rem;
+  border-left: solid 0.25rem #f2f2f280;
+  border-right: solid 0.25rem #f2f2f280;
+  border-top: solid 0.25rem #f2f2f280;
+  border-bottom: solid 0.25rem #f2f2f280;
+}
+.font {
+  font-size: 1.88rem;
+  font-family: HarmonyOSSansSC;
+  line-height: 1.74rem;
+  color: #8f92a196;
+}
+.text_4 {
+  margin-left: 0.75rem;
+  line-height: 1.76rem;
+}
+.text_5 {
+  margin-left: 0.88rem;
+  line-height: 1.75rem;
+}
+.text_6 {
+  margin-left: 0.75rem;
+  line-height: 1.72rem;
+}
+.text_7 {
+  margin-left: 0.75rem;
+}
+.text-wrapper_2 {
+  margin-top: 4.31rem;
+  padding: 1.5rem 0 1.13rem;
+  background-image: radial-gradient(25% 25% at 50% 75%, #aec6eb 0%, #000000c2 100%);
+  border-radius: 1rem;
+  width: 13.5rem;
+}
+.text_8 {
+  margin-left: 2rem;
+  color: #fffafa;
+  font-size: 1.5rem;
+  font-family: AlimamaShuHeiTi;
+  line-height: 1.38rem;
+}
